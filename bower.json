@@ -1,0 +1,15 @@
+{
+  "name": "flot.axislabels",
+  "authors": [
+    "srk289@gmail.com"
+  ],
+  "description": "Flot axislabels with bower.json",
+  "main": "jquery.flot.axislabels.js",
+  "moduleType": [],
+  "keywords": [
+    "flot-axis",
+    "flot.axis"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
